@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\HMS\Hotel\bin\Debug\net5.0\Hotel.exe
+C:\Users\HP\Desktop\HMS\Hotel\bin\Debug\net5.0\Hotel.deps.json
+C:\Users\HP\Desktop\HMS\Hotel\bin\Debug\net5.0\Hotel.runtimeconfig.json
+C:\Users\HP\Desktop\HMS\Hotel\bin\Debug\net5.0\Hotel.runtimeconfig.dev.json
+C:\Users\HP\Desktop\HMS\Hotel\bin\Debug\net5.0\Hotel.dll
+C:\Users\HP\Desktop\HMS\Hotel\bin\Debug\net5.0\ref\Hotel.dll
+C:\Users\HP\Desktop\HMS\Hotel\bin\Debug\net5.0\Hotel.pdb
+C:\Users\HP\Desktop\HMS\Hotel\obj\Debug\net5.0\Hotel.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HMS\Hotel\obj\Debug\net5.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HMS\Hotel\obj\Debug\net5.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HMS\Hotel\obj\Debug\net5.0\Hotel.AssemblyInfo.cs
+C:\Users\HP\Desktop\HMS\Hotel\obj\Debug\net5.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HMS\Hotel\obj\Debug\net5.0\Hotel.dll
+C:\Users\HP\Desktop\HMS\Hotel\obj\Debug\net5.0\ref\Hotel.dll
+C:\Users\HP\Desktop\HMS\Hotel\obj\Debug\net5.0\Hotel.pdb
+C:\Users\HP\Desktop\HMS\Hotel\obj\Debug\net5.0\Hotel.genruntimeconfig.cache
